@@ -1,2 +1,2 @@
-[$HOME/.config/vcsh/repo.d/zsh.git]
+[$HOME/.config/vcsh/repo.d/mr.git]
 checkout = vcsh clone ssh://git@github.com:eddsteel/df-mr.git mr
