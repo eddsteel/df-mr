@@ -1,2 +1,2 @@
 [$HOME/.vim/bundle/outliner]
-checkout = git clone ssh://git@github.com:eddsteel/vimoutliner outliner
+checkout = git clone git@github.com:eddsteel/vimoutliner outliner

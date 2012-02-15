@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/mutt.git]
-checkout = vcsh clone ssh://git@github.com:eddsteel/df-mutt.git mutt
+checkout = vcsh clone git@github.com:eddsteel/df-mutt.git mutt

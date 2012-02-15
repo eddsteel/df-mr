@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/htop.git]
+checkout = vcsh clone git@github.com:eddsteel/df-htop.git htop

@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/addresses.git]
+checkout = vcsh clone git@eddandkrista.com:addresses.git addresses
