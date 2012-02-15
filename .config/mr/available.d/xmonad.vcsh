@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/xmonad.git]
+checkout = vcsh clone ssh://git@github.com:eddsteel/df-xmonad.git xmonad
