@@ -1,0 +1,2 @@
+[$HOME/Projects/scripts]
+checkout = vcsh clone git@github.com:eddsteel/scripts scripts

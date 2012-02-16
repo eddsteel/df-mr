@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/ghci.git]
+checkout = vcsh clone git@github.com:eddsteel/df-ghci.git ghci

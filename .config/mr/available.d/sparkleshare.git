@@ -1,0 +1,2 @@
+[$HOME/SparkleShare/org]
+checkout = git clone git@eddandkrista.com:org.git org

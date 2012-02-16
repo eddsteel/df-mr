@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/backup.git]
+checkout = vcsh clone git@github.com:eddsteel/df-backup.git backup

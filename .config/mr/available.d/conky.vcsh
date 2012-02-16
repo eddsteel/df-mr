@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/conky.git]
+checkout = vcsh clone git@github.com:eddsteel/df-conky.git conky

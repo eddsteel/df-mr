@@ -1,1 +1,2 @@
-../config.d/mail.vcsh
+[$HOME/.config/vcsh/repo.d/mail.git]
+checkout = vcsh clone git@github.com:eddsteel/df-mail.git mail
