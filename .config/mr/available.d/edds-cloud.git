@@ -1,0 +1,2 @@
+[$HOME/Projects/edds-cloud]
+checkout = git clone git@github.com:eddsteel/edds-cloud edds-cloud
