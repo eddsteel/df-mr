@@ -7,6 +7,8 @@
 !.config/mr/available.d/calendars.vcsh
 !.config/mr/available.d/conky.vcsh
 !.config/mr/available.d/cron.vcsh
+!.config/mr/available.d/eddandkrista.git
+!.config/mr/available.d/edds-cloud.git
 !.config/mr/available.d/ghci.vcsh
 !.config/mr/available.d/git.vcsh
 !.config/mr/available.d/htop.vcsh
@@ -16,7 +18,7 @@
 !.config/mr/available.d/mr.vcsh
 !.config/mr/available.d/mutt.vcsh
 !.config/mr/available.d/newsbeuter.vcsh
-!.config/mr/available.d/passwordcard.git
+!.config/mr/available.d/passwordcard.vcsh
 !.config/mr/available.d/pkgs.vcsh
 !.config/mr/available.d/scripts.git
 !.config/mr/available.d/sparkleshare.git
@@ -35,6 +37,7 @@
 !.config/mr/available.d/vim.vcsh
 !.config/mr/available.d/vim-xmledit.git
 !.config/mr/available.d/vim-zenburn.git
+!.config/mr/available.d/xapps.vcsh
 !.config/mr/available.d/xmonad.vcsh
 !.config/mr/available.d/xorg.vcsh
 !.config/mr/available.d/zsh.vcsh
