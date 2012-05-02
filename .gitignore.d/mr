@@ -23,6 +23,7 @@
 !.config/mr/available.d/scripts.git
 !.config/mr/available.d/sparkleshare.git
 !.config/mr/available.d/ssh.vcsh
+!.config/mr/available.d/tmux.vcsh
 !.config/mr/available.d/vim-csscolor.git
 !.config/mr/available.d/vim-endwise.git
 !.config/mr/available.d/vim-lanai.git
@@ -33,10 +34,11 @@
 !.config/mr/available.d/vim-outliner.git
 !.config/mr/available.d/vim-pathogen.git
 !.config/mr/available.d/vim-repeat.git
+!.config/mr/available.d/vim-scala.git
 !.config/mr/available.d/vim-surround.git
-!.config/mr/available.d/vim.vcsh
 !.config/mr/available.d/vim-xmledit.git
 !.config/mr/available.d/vim-zenburn.git
+!.config/mr/available.d/vim.vcsh
 !.config/mr/available.d/xapps.vcsh
 !.config/mr/available.d/xmonad.vcsh
 !.config/mr/available.d/xorg.vcsh
