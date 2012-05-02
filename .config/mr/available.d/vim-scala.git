@@ -1,3 +1,2 @@
 [$HOME/.vim/bundle/scala]
-checkout = git clone git@github.com:derekwyatt/vim-scala.git scala
-push = :
+checkout = git clone git@github.com:eddsteel/vim-scala.git scala
