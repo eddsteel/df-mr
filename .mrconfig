@@ -2,3 +2,6 @@
 # adapt /usr/share/mr/vcsh to your system if needed
 include = cat /usr/share/mr/vcsh
 include = cat $HOME/.config/mr/config.d/*
+
+[.]
+checkout=vcsh clone git@github.com:eddsteel/df-mr.git mr
