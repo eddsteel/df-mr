@@ -1,0 +1,3 @@
+[$HOME/Mail]
+skip = test `pwd` != $HOME/Mail
+update = mkdir -p {gmail,hootsuite}/{action,respond,wait} {gmail,eddandkrista,hootsuite}/INBOX && ln -fs INBOX gmail/1\ GMail && ln -fs INBOX hootsuite/4\ HootSuite
