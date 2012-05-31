@@ -1,4 +1,4 @@
 [$HOME/.vim/bundle/supertab]
-checkout = git clone github://ervandew/supertab.git csscolor
+checkout = git clone github://ervandew/supertab.git supertab
 push = :
 
