@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/sbt.git]
+checkout = vcsh clone git://github.com/eddsteel/df-sbt.git sbt
