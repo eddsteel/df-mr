@@ -1,3 +1,2 @@
 [DEFAULT]
-include = cat /usr/local/share/mr/vcsh
 include = cat $HOME/.config/mr/config.d/*
