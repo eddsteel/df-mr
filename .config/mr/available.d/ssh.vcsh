@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/ssh.git]
-checkout = vcsh clone git@github.com:eddsteel/df-ssh.git ssh
+checkout = vcsh clone https://github.com/eddsteel/df-ssh.git ssh

@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/pkgs.git]
-checkout = vcsh clone git@github.com:eddsteel/df-pkgs.git pkgs
+checkout = vcsh clone https://github.com/eddsteel/df-pkgs.git pkgs
