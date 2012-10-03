@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/irb.git]
-checkout = vcsh clone git@github.com:eddsteel/df-irb.git irb
+checkout = vcsh clone https://github.com/eddsteel/df-irb.git irb

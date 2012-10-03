@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/newsbeuter.git]
-checkout = vcsh clone git@github.com:eddsteel/df-newsbeuter.git newsbeuter
+checkout = vcsh clone https://github.com/eddsteel/df-newsbeuter.git newsbeuter
