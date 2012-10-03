@@ -1,4 +1,4 @@
 [DEFAULT]
 # adapt /usr/share/mr/vcsh to your system if needed
-include = cat /usr/share/mr/vcsh
+include = cat $HOME/.config/mr/share/*
 include = cat $HOME/.config/mr/config.d/*
