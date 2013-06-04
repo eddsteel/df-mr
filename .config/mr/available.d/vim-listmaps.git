@@ -1,4 +1,0 @@
-[$HOME/.vim/bundle/listmaps]
-checkout = git clone git://github.com/vim-scripts/listmaps.vim.git listmaps
-push = :
-

@@ -1,4 +1,0 @@
-[$HOME/.vim/bundle/unite]
-checkout = git clone git://github.com/Shougo/unite.vim unite
-push = :
-

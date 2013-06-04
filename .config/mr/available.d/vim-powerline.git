@@ -1,4 +1,0 @@
-[$HOME/.vim/bundle/powerline]
-checkout = git clone git://github.com/Lokaltog/vim-powerline.git powerline
-push = :
-

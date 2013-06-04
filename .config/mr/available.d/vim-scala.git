@@ -1,2 +1,0 @@
-[$HOME/.vim/bundle/scala]
-checkout = git clone https://github.com/eddsteel/vim-scala.git scala

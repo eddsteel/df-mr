@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/repeat]
-checkout = git clone git://github.com/tpope/vim-repeat.git repeat
-push = :

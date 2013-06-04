@@ -1,2 +1,0 @@
-[$HOME/.vim/bundle/proc]
-checkout = git clone git@eddandkrista.com:vim-proc-linux.git proc

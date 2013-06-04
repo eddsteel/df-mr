@@ -1,4 +1,0 @@
-[$HOME/.vim/bundle/neocomplcache]
-checkout = git clone git://github.com/Shougo/neocomplcache.git neocomplcache
-push = :
-

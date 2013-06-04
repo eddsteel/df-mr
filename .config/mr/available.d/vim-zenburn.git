@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/zenburn]
-checkout = git clone git://github.com/vim-scripts/Zenburn.git zenburn
-push = :

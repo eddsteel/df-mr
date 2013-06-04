@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/nerdtree]
-checkout = git clone git://github.com/scrooloose/nerdtree.git nerdtree
-push = :

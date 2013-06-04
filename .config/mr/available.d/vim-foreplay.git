@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/foreplay]
-checkout = git clone git://github.com/tpope/vim-foreplay.git foreplay
-push = :

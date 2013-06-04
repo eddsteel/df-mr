@@ -1,4 +1,0 @@
-[$HOME/.vim/bundle/csscolor]
-checkout = git clone git://github.com/ap/vim-css-color.git csscolor
-push = :
-

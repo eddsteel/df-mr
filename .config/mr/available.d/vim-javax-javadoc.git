@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/he-javax]
-checkout = git clone https://github.com/davetron5000/javax-javadoc-vim.git he-javax
-push = :

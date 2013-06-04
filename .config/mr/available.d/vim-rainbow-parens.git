@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/rainbow-parens]
-checkout = git clone https://github.com/kien/rainbow_parentheses.vim.git rainbow-parens
-push = :

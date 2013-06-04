@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/surround]
-checkout = git clone git://github.com/tpope/vim-surround.git surround
-push = :

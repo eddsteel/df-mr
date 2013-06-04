@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/gnupg]
-checkout = git clone git://github.com/vim-scripts/gnupg.vim gnupg
-push = :

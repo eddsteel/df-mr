@@ -1,2 +1,0 @@
-[$HOME/.vim/bundle/vimbrant]
-checkout = git clone git://github.com/eddsteel/vim-vimbrant.git vimbrant

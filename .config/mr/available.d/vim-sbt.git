@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/sbt]
-checkout = git clone https://github.com/derekwyatt/vim-sbt.git sbt
-push = :

@@ -1,2 +1,0 @@
-[$HOME/.vim/bundle/lanai]
-checkout = git clone https://github.com/eddsteel/vim-lanai.git lanai

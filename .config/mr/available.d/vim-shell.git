@@ -1,4 +1,0 @@
-[$HOME/.vim/bundle/shell]
-checkout = git clone git://github.com/Shougo/vimshell.git shell
-push = :
-

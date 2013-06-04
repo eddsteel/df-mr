@@ -1,4 +1,0 @@
-[$HOME/.vim/bundle/endwise]
-checkout = git clone git://github.com/tpope/vim-endwise.git endwise
-push = :
-

@@ -1,2 +1,0 @@
-[$HOME/.vim/bundle/mail]
-checkout = git clone https://github.com/eddsteel/vim-mail.git mail

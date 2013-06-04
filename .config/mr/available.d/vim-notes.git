@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/notes]
-checkout = git clone git://github.com/xolox/vim-notes.git notes
-push = :

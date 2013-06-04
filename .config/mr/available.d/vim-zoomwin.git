@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/zoomwin]
-checkout = git clone git://github.com/vim-scripts/ZoomWin.git zoomwin
-push = :

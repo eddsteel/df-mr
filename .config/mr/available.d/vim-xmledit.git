@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/xmledit]
-checkout = git clone git://github.com/sukima/xmledit.git xmledit
-push = :

@@ -1,3 +1,0 @@
-[$HOME/.vim/bundle/classpath]
-checkout = git clone git://github.com/tpope/vim-classpath.git classpath
-push = :
