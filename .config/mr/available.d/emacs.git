@@ -1,0 +1,2 @@
+[$HOME/.emacs.d]
+checkout = git clone https://github.com/eddsteel/df-emacs.git .emacs.d

@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/emacs.git]
-checkout = vcsh clone https://github.com/eddsteel/df-emacs.git emacs
