@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/fonts.git]
-checkout = vcsh clone git@eddandkrista.com:fonts.git fonts
+checkout = vcsh clone git@eddsteel.com:fonts.git fonts
