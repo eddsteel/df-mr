@@ -1,0 +1,2 @@
+[$HOME/.org]
+checkout = git clone git@eddsteel.com:org.git .org
