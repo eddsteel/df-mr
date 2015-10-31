@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/xapps.git]
-checkout=vcsh clone git@eddsteel.com:df-xapps.git xapps
