@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/diane.git]
+checkout = vcsh clone git@eddsteel.com:diane.git diane
