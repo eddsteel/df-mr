@@ -1,0 +1,36 @@
+[advent]
+checkout = git clone 'github://eddsteel/advent' 'advent'
+
+[brainzo]
+checkout = git clone 'github://eddsteel/brainzo' 'brainzo'
+
+[chemtrails]
+checkout = git clone 'git@eddsteel.com:chemtrails' 'chemtrails'
+
+[eddsteel.com]
+checkout = git clone 'git@eddsteel.com:eddsteel.com' 'eddsteel.com'
+
+[foodbank]
+checkout = git clone 'git@eddsteel.com:foodbank.git' 'foodbank'
+
+[fp-in-scala]
+checkout = git clone 'git@eddsteel.com:fp-in-scala.git' 'fp-in-scala'
+
+[home-pi]
+checkout = git clone 'git@eddsteel.com:home-pi.git' 'home-pi'
+
+[learning-haskell]
+checkout = git clone 'git@eddsteel.com:learning-haskell.git' 'learning-haskell'
+
+[ledge]
+checkout = git clone 'git@eddsteel.com:ledge.git' 'ledge'
+
+[letsencrypt]
+checkout = git clone 'github://letsencrypt/letsencrypt' 'letsencrypt'
+push = :
+
+[scripts]
+checkout = git clone 'github://eddsteel/scripts' 'scripts'
+
+[talks]
+checkout = git clone 'github://eddsteel/talks' 'talks'
