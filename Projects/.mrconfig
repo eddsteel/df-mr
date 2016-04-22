@@ -34,3 +34,30 @@ checkout = git clone 'github://eddsteel/scripts' 'scripts'
 
 [talks]
 checkout = git clone 'github://eddsteel/talks' 'talks'
+
+[cis198spring]
+checkout = git clone 'git@eddsteel.com:cis198spring' 'cis198spring'
+
+[docker-fun]
+checkout = git clone 'git@eddsteel.com:docker-fun' 'docker-fun'
+
+[home-org]
+checkout = git clone 'git@eddsteel.com:home-org' 'home-org'
+
+[life]
+checkout = git clone 'git@eddsteel.com:life.git' 'life'
+
+[netflick]
+checkout = git clone 'git@eddsteel.com:netflick.git' 'netflick'
+
+[polyglot-papers]
+checkout = git clone 'git@eddsteel.com:polyglot-papers.git' 'polyglot-papers'
+
+[notes]
+checkout = git clone 'git@eddsteel.com:notes.git' 'notes'
+
+[recipes]
+checkout = git clone 'git@eddsteel.com:recipes.git' 'recipes'
+
+[screen2gif]
+checkout = git clone 'git@eddsteel.com:screen2gif' 'screen2gif'
