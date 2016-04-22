@@ -1,0 +1,3 @@
+[Projects]
+checkout = git clone git@eddsteel.com:project-list.git Projects
+chain = true
