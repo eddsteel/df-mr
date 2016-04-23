@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/unison.git]
+checkout = vcsh clone git@eddsteel.com:df-unison.git unison
