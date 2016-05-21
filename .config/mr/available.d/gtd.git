@@ -1,2 +1,2 @@
 [$HOME/.gtd]
-checkout = git clone git@eddsteel.com:org.gtd .gtd
+checkout = git clone git@eddsteel.com:gtd.git .gtd
