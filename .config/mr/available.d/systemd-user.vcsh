@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/systemd-user.git]
+checkout = vcsh clone git@git.eddsteel.com:systemd-user.git systemd-user
