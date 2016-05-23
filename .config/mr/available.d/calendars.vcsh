@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/calendars.git]
-checkout = vcsh clone git@eddsteel.com:calendars.git calendars
+checkout = vcsh clone git@git.eddsteel.com:calendars.git calendars
