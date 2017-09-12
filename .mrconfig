@@ -2,4 +2,5 @@
 include = cat $HOME/.config/mr/share/*
 include = cat $HOME/.config/mr/config.d/*
 include = test $HOME/src/.mrconfig && cat $HOME/src/.mrconfig
+include = test $HOME/txt/.mrconfig && cat $HOME/txt/.mrconfig
 update = git pull --rebase
