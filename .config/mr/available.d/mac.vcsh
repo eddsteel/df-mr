@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/mac.git]
+checkout = vcsh clone git://github.com/eddsteel/df-mac.git mac
